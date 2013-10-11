@@ -1,0 +1,7 @@
+<RCC>
+  <qresource>
+    <file>resimler/cikis.png</file>
+    <file>resimler/not.png</file>
+    <file>resimler/ortalama.png</file>
+  </qresource>
+</RCC>
